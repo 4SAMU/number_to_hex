@@ -30,5 +30,4 @@ ISC
 
 Samuel Nzomo
 
-[NUMBER TO HEX](https://github.com/4SAMU/number_to_hex)
-
+[View the code in Github](https://github.com/4SAMU/number_to_hex)
