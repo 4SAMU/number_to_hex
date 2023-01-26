@@ -1,0 +1,8 @@
+{
+  "name": "number_to_hex",
+  "version": "1.0.0",
+  "description": "function that takes in a single parameter num and converts it to a hexadecimal string",
+  "main": "index.js",
+  "author": "Samuel Nzomo",
+  "license": "ISC"
+}
