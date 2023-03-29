@@ -10,7 +10,7 @@ A package that takes in a single parameter num and converts it to a hexadecimal 
 ```shell
 npm install number_to_hex
 ```
-#YARN
+# YARN
 ```shell
 yarn add number_to_hex
 ```
