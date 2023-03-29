@@ -6,11 +6,11 @@ A package that takes in a single parameter num and converts it to a hexadecimal 
 
 ## Installation
 
-# NPM
+## npm
 ```shell
 npm install number_to_hex
 ```
-# YARN
+## yarn
 ```shell
 yarn add number_to_hex
 ```
