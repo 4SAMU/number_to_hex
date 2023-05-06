@@ -1,15 +1,14 @@
 {
   "name": "number_to_hex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "function that takes in a single parameter num and converts it to a hexadecimal string",
   "main": "index.js",
   "author": "Samuel Nzomo",
   "license": "ISC",
   "keywords": [
     "hex",
-    "number_to_hex"
-  ],
-  "scripts": {
-    "build": "babel Modal --out-dir lib"
-  }
+    "number_to_hex",
+    "hexadecimal",
+    "number to hexadecimal"
+  ]
 }
