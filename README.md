@@ -6,8 +6,13 @@ A package that takes in a single parameter num and converts it to a hexadecimal 
 
 ## Installation
 
+## npm
 ```shell
 npm install number_to_hex
+```
+## yarn
+```shell
+yarn add number_to_hex
 ```
 
 ## Usage
